@@ -2,511 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff4b4bb-b1b0-4059-b4e7-21f5805d212a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes76.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes79.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes82.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes83.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes91.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes94.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes95.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes96.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes97.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes98.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Notes/Notes99.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/WithoutNotes/Notes1264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpingHand.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -537,16 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Images/Preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
-              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelpingHand.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -726,23 +227,23 @@
       <workItem from="1563017166357" duration="15249000" />
       <workItem from="1563050148119" duration="1347000" />
       <workItem from="1563053156971" duration="25393000" />
-      <workItem from="1563142076259" duration="6740000" />
+      <workItem from="1563142076259" duration="7159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48729000" />
+    <option name="totallyTimeSpent" value="49148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26180837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2671533" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2671533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -878,12 +379,18 @@
     <entry file="file://$PROJECT_DIR$/Images/Preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelpingHand.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelpingHand.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
